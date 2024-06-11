@@ -1,0 +1,51 @@
+.cd{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+.entDiv{
+    width: 400px;
+    height: 600px;
+    border: 10px solid red;
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    background-color: blanchedalmond;
+    margin: 10px;
+}
+#softDiv{
+    background-image: url(./images/microsoft\ logo1.jpg);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+#appleDiv{
+    background-image: url(./images/apple\ logo.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+#teslaDiv{
+    background-image: url(./images/tesla\ logo.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+#benzDiv{
+    background-image: url(./images/mercedes\ logo.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+#audiDiv{
+    background-image: url(./images/Audi\ logo.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+#vkDiv{
+    background-image: url(./images/volkswagen\ logo.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
